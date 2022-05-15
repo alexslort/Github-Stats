@@ -47,6 +47,6 @@ HOW TO RUN ENDPOINT
     > flask run
  Do this each time you open a new terminal
 
- paste http link into browser and include "/usernamehere" after address ex. http://123.0.0.1:5000/seantomburke
+ paste http link into browser and include "/usernamehere" after address ex. http://123.0.0.1:5000/alexslort
 
  For statistics of repositories that have no forks, do "/usernamehere/forked"

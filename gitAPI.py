@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "please add '/<user>' to search bar. Ex: '/seantomburke'"
+    return "please add '/<user>' to search bar. Ex: '/alexslort'"
 
 #creates an endpoint for inputed user
 @app.route("/<user>")
